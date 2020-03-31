@@ -69,7 +69,7 @@
         "mongodb": "^3.3.2",
         "mongoose": "^5.7.5",
         "multer": "^1.4.2",
-        "next": "^9.1.1",
+        "next": "^9.3.2",
         "next-compose-plugins": "^2.2.0",
         "node-sass": "^4.12.0",
         "null-loader": "^3.0.0",
